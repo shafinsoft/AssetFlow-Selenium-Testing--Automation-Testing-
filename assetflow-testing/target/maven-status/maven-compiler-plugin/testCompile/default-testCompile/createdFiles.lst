@@ -1,0 +1,6 @@
+com\assetflow\DashboardTest.class
+com\assetflow\LoginTest.class
+com\assetflow\InvalidLoginTest.class
+com\assetflow\ValidLoginTest.class
+com\assetflow\HomepageTest.class
+com\assetflow\SignupTest.class
